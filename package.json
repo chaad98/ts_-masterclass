@@ -1,0 +1,16 @@
+{
+  "name": "ts_masterclass",
+  "version": "1.0.0",
+  "description": "TypeScript V5 Updated Course - Full Stack Development, TypeScript with ReactJS, ShadcnUI, Node.js, Express and MongoDB",
+  "license": "MIT",
+  "author": "Chad",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
